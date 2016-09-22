@@ -1,0 +1,1 @@
+<!-- .slide: data-background="url(images/slides/intro/refus.png) no-repeat center" data-background-size="contain"-->

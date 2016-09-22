@@ -1,0 +1,3 @@
+## Contraintes
+
+Fonctionnement offline

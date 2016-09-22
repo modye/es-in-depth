@@ -1,0 +1,1 @@
+<!-- .slide: data-background="url(images/slides/proxy/docker.png) no-repeat center" data-background-size="contain"-->

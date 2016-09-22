@@ -1,0 +1,1 @@
+<!-- .slide: data-background="url(images/slides/intro/bzhcamp.svg) no-repeat center" data-background-size="contain"-->
