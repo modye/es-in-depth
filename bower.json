@@ -1,5 +1,5 @@
 {
-  "name": "progressive-apps",
+  "name": "elasticsearch-in-depth",
   "version": "0.0.1",
   "dependencies": {
     "prismjs": "https://github.com/PrismJS/prism.git",

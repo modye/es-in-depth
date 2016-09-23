@@ -109,20 +109,16 @@ pre[data-line] {
 .slides section.page-title  {
 
   h1 {
-    color: #EEE;
-    text-shadow: 1px 1px 1px #111;
+    color: #5EB6DD;
+    text-shadow: 1px 1px 1px #375D81;
     margin-bottom: 0;
-  }
-  img {
-    width: 5rem;
-    height: 5rem;
   }
   .subtitle {
      display: flex;
      align-items: center;
      justify-content: center;
 
-     color: #A5A5A5;
+     color: #183152;
      font-size: 1.5em;
 
      img {
@@ -133,6 +129,15 @@ pre[data-line] {
     background: none;
     border: none;
     box-shadow: none; 
+    width: 40rem;
+    height: 10rem;
+  }
+  .author {
+    color: #A2B5BF;
+  }
+  .author img {
+    width: 30rem;
+    height: 10rem;
   }
 }
 

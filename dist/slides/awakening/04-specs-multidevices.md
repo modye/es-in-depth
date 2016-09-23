@@ -1,3 +1,0 @@
-## Contraintes
-
-Multi-devices

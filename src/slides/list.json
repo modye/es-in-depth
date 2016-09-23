@@ -1,3 +1,27 @@
   [
-    "index.md"
+    "index.md",
+    [
+      "intro/01-developer.md",
+      "intro/02-trainer.md"
+    ],
+    [
+      "es/01-es.md",
+      "es/02-need.md",
+      "es/03-organize.md",
+      "es/04-collect-to-search.md",
+      "es/05-indexation.md",
+      "es/06-search.md",
+      "es/07-scoring.md",
+      "es/08-suggest.md",
+      "es/09-correct.md",
+      "es/10-aggs.md",
+      "es/11-document.md",
+      "es/12-ready-to-go.md",
+      "es/13-win.md",
+      "es/14-nope.md"
+    ],
+    [
+      "search/01-search.md",
+      "search/02-first-indexation.md"
+    ]
 ] 

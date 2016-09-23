@@ -1,1 +1,0 @@
-<video class="slide fullscreen" autoplay loop src="images/slides/intro/truestory.ogg" ></video>
