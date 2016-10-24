@@ -7,15 +7,18 @@
     [
       "es/01-es.md",
       "es/01-2-lucene.md",
+      "es/07-scoring.md",
+      "es/08-suggest.md",
+      "es/09-correct.md",
+      "es/10-aggs.md",
+      "es/01-3-talk-about.md"
+    ],
+    [
       "es/02-need.md",
       "es/03-organize.md",
       "es/04-collect-to-search.md",
       "es/05-indexation.md",
       "es/06-search.md",
-      "es/07-scoring.md",
-      "es/08-suggest.md",
-      "es/09-correct.md",
-      "es/10-aggs.md",
       "es/11-document.md",
       "es/12-ready-to-go.md",
       "es/13-win.md",
@@ -66,13 +69,8 @@
       "elk/04-demo.md"
     ],
     [
-      "cluster/01-cluster.md",
-      "cluster/02-sharding.md",
-      "cluster/03-perf.md"
-    ],
-    [
       "ccl/01-box.md",
       "ccl/02-care.md",
       "ccl/03-thanks.md"
     ]
-] 
+]
