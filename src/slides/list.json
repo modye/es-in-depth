@@ -6,6 +6,7 @@
     ],
     [
       "es/01-es.md",
+      "es/01-2-lucene.md",
       "es/02-need.md",
       "es/03-organize.md",
       "es/04-collect-to-search.md",
@@ -22,6 +23,56 @@
     ],
     [
       "search/01-search.md",
-      "search/02-first-indexation.md"
+      "search/02-first-indexation.md",
+      "search/03-index.md",
+      "search/04-schema-less.md",
+      "search/05-multiple-searches.md",
+      "search/06-why.md",
+      "search/07-analysis.md",
+      "search/08-what-appened.md",
+      "search/09-inverted-index.md",
+      "search/10-phases.md",
+      "search/11-search-explained.md",
+      "search/12-text-analysis.md",
+      "search/13-analysis-example.md",
+      "search/13-2-mapping.md",
+      "search/14-why.md",
+      "search/15-pollute.md",
+      "search/16-tf-idf.md",
+      "search/17-tf-idf-explained.md",
+      "search/17-2-tf-idf-api-explain.md",
+      "search/17-3-analyzers.md",
+      "search/17-4-analyze.md",
+      "search/18-ccl-search.md",
+      "search/19-what-if.md",
+      "search/20-multi-field.md",
+      "search/21-multi-field-request.md",
+      "search/22-police.md",
+      "search/23-filter.md",
+      "search/24-gatling.md",
+      "search/25-perf-test.md",
+      "search/26-test-results.md"
+    ],
+    [
+      "aggs/01-aggs.md",
+      "aggs/02-aggs-desc.md",
+      "aggs/03-aggs-ccl.md",
+      "aggs/04-nested.md"
+    ],
+    [
+      "elk/01-elk.md",
+      "elk/02-elk-simple.md",
+      "elk/03-elk-complex.md",
+      "elk/04-demo.md"
+    ],
+    [
+      "cluster/01-cluster.md",
+      "cluster/02-sharding.md",
+      "cluster/03-perf.md"
+    ],
+    [
+      "ccl/01-box.md",
+      "ccl/02-care.md",
+      "ccl/03-thanks.md"
     ]
 ] 

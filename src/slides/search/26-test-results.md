@@ -1,0 +1,1 @@
+![Gatling results](images/slides/search/perf_tests.png)

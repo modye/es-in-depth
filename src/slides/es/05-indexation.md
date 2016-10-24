@@ -1,4 +1,4 @@
-## Collect & indexation
+## Collect & index
 - Collect data
 - Build document : JSON
 - Analyze document
