@@ -128,7 +128,7 @@ pre[data-line] {
   img {
     background: none;
     border: none;
-    box-shadow: none; 
+    box-shadow: none;
     width: 40rem;
     height: 10rem;
   }
@@ -219,7 +219,7 @@ video.slide {
   height: auto;
   z-index: -100;
   transform: translateX(-50%) translateY(-50%);
-  background-color: #2196F3; 
+  background-color: #2196F3;
   background-size: cover;
   transition: 1s opacity;
 
@@ -243,3 +243,10 @@ video.slide {
   text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
 }
 
+.reveal img.kitten {
+  position: absolute;
+  bottom: 0;
+  left:0;
+  width: 200px;
+  opacity: 0.5;
+}

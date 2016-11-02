@@ -1,3 +1,4 @@
+<!-- .slide: data-background="url(images/slides/kitten-little.jpg) no-repeat bottom left" data-background-size="250px" -->
 ## Explain API
 
 ```

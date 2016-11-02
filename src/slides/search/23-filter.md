@@ -1,3 +1,4 @@
+<!-- .slide: data-background="url(images/slides/kitten-little.jpg) no-repeat bottom left" data-background-size="250px" -->
 ##### Prefer **filtered query**
 - no need to compute a *score* when filtering
 - cacheable
