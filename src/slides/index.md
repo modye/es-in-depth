@@ -7,5 +7,4 @@
 <div class="author" >
     <div>Maxime Odye - 3 Novembre 2016</div>
 	![Zenika](images/zenika.png)
-	![BreizhJug](images/breizhjug.png)
 </div>

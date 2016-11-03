@@ -35,7 +35,8 @@
   },
   "scripts": {
     "postinstall": "bower install --allow-root",
-    "start": "gulp"
+    "start": "gulp",
+    "build" : "gulp build"
   },
   "dependencies": {}
 }
