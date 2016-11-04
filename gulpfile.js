@@ -138,7 +138,6 @@ gulp.task('default', function(done) {
   runSequence(
     ['style', 'template'],
     ['watch', 'serve'],
-    ['build', 'build'],
     done);
 });
 
