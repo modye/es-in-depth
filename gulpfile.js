@@ -15,7 +15,7 @@ var paths = {
   src: 'src/slides',
   style: 'src/css/source/**/*.scss',
   template: 'src/templates/index.html',
-  dist: 'dist',
+  dist: 'output/dist',
   tmp: '.tmp',
   images: 'src/resources/images',
   fonts: 'src/resources/fonts',
@@ -138,6 +138,7 @@ gulp.task('default', function(done) {
   runSequence(
     ['style', 'template'],
     ['watch', 'serve'],
+    ['build', 'build'],
     done);
 });
 
